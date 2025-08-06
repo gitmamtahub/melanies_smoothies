@@ -1,5 +1,4 @@
 # requirements
-python >=3.11 , <=3.12
 snowflake
 snowflake-snowpark-python
 streamlit
